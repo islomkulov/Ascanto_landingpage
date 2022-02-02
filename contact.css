@@ -1,0 +1,165 @@
+.container {
+	max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.basis {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kompi {
+    width: calc(50% - 40px);
+}
+
+.name__input {
+    padding-left: 100px;
+}
+
+.input__text {
+    /* padding-bottom: 30px; */
+    border: 2px solid yellowgreen;
+    border-left: 0;
+    font-size: 25px;
+    border-right: 0;
+    border-top: 0;
+    /* transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; */
+}
+
+.input__email {
+    border: 2px solid yellowgreen;
+    border-left: 0;
+    font-size: 25px;
+    border-right: 0;
+    border-top: 0;
+}
+
+.email__input {
+    padding-left: 100px;
+    padding-top: 35px;
+}
+
+.text__textarea {
+    padding-left: 100px;
+    padding-top: 35px;
+}
+
+.send__button {
+    padding-left: 100px;
+    padding-top: 35px;
+}
+
+.send {
+    border: 2px solid yellowgreen;
+    border-left: 0;
+    font-size: 25px;
+    border-right: 0;
+    border-top: 0;
+    margin-bottom: 20px;
+    background-color: yellow;
+    color: teal;
+    font-family: cursive;
+}
+
+.textarea {
+	border: 2px solid yellowgreen;
+    border-left: 0;
+    font-size: 25px;
+    border-right: 0;
+    border-top: 0;
+}
+
+.natasha {
+    width: calc(50% - 40px);
+}
+
+.ikki {
+    font-family: cursive;
+    color: yellowgreen;
+    text-decoration: underline;
+}
+
+.span {
+    padding-left: 25px;
+    font-family: cursive;
+    color: aqua;
+    text-decoration: underline;
+}
+
+i.fas.fa-phone.tm-contact-icon {
+    font-size: x-large;
+    color: blue;
+}
+
+.span-span {
+    padding-left: 30px;
+    font-family: cursive;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.hulk__email__icon {
+    padding-top: 15px;
+}
+
+.fas.fa-envelope.tm-contact-icon {
+    font-size: x-large;
+    color: brown;
+}
+
+.sem {
+    display: flex;
+    padding-top: 40px;
+}
+
+.fab.fa-facebook.tm-social-icon {
+    padding-right: 30px;
+    font-size: x-large;
+    color: blue;
+}
+
+.fab.fa-twitter.tm-social-icon {
+    padding-right: 30px;
+    font-size: x-large;
+    color: blue;
+}
+
+.vanda__insta__icon {
+    padding-right: 30px;
+    font-size: x-large;
+    color: crimson;
+}
+
+.merlin {
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+
+.gven {
+    text-align: center;
+    padding: 15px 350px;
+    font-family: cursive;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.ikkinchi {
+    text-align: center;
+}
+
+.tm-map {
+    width: 100%;
+    /* max-width: 1000px; */
+    margin: 30px 0 auto;
+    text-align: center;
+}
+
+.iframe {
+    width: 800px;
+    height: 400px;
+    padding-bottom: 30px;
+}
